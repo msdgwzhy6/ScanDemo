@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- 标题栏 -->
+  <!-- 标题栏高度 -->
+  <dimen name="title_bar_height">@dimen/a_7.5size</dimen>
+  <!-- 左侧返回按钮字体大小 -->
+  <dimen name="title_bar_left_text_size">@dimen/H3_ts</dimen>
+  <!-- 标题字体大小 -->
+  <dimen name="title_bar_title_text_size">@dimen/H2_ts</dimen>
+
+  <dimen name="D1_ts">38sp</dimen>
+  <dimen name="D2_ts">24sp</dimen>
+  <dimen name="D3_ts">22sp</dimen>
+  <dimen name="H1_ts">18sp</dimen>
+  <dimen name="H2_ts">17sp</dimen>
+  <dimen name="H3_ts">16sp</dimen>
+  <dimen name="T1_ts">14sp</dimen>
+  <dimen name="T2_ts">13sp</dimen>
+  <dimen name="T3_ts">11sp</dimen>
+  <dimen name="T4_ts">10sp</dimen>
+
+  <dimen name="A_size">30dp</dimen>
+  <dimen name="A_2size">60dp</dimen>
+  <dimen name="A_3size">90dp</dimen>
+  <dimen name="A_4size">120dp</dimen>
+  <dimen name="A_5size">150dp</dimen>
+  <dimen name="A_6size">180dp</dimen>
+  <dimen name="A_7size">210dp</dimen>
+  <dimen name="A_8size">240dp</dimen>
+  <dimen name="A_9size">270dp</dimen>
+  <dimen name="A_10size">300dp</dimen>
+  <dimen name="A_11size">330dp</dimen>
+  <dimen name="A_12size">360dp</dimen>
+
+  <dimen name="a_size">6dp</dimen>
+  <dimen name="a_2size">12dp</dimen>
+  <dimen name="a_3size">18dp</dimen>
+  <dimen name="a_4size">24dp</dimen>
+  <dimen name="a_5size">30dp</dimen>
+  <dimen name="a_6size">36dp</dimen>
+  <dimen name="a_7size">42dp</dimen>
+  <dimen name="a_8size">48dp</dimen>
+  <dimen name="a_9size">54dp</dimen>
+  <dimen name="a_10size">60dp</dimen>
+  <dimen name="a_11size">66dp</dimen>
+  <dimen name="a_12size">72dp</dimen>
+  <dimen name="a_13size">78dp</dimen>
+  <dimen name="a_14size">84dp</dimen>
+  <dimen name="a_15size">90dp</dimen>
+  <dimen name="a_16size">96dp</dimen>
+  <dimen name="a_20size">120dp</dimen>
+  <dimen name="a_24size">144dp</dimen>
+  <dimen name="a_26size">156dp</dimen>
+  <dimen name="a_50size">300dp</dimen>
+  <dimen name="a_54size">324dp</dimen>
+
+  <!-- 一些比较特殊的值  -->
+  <dimen name="a_0.3size">1.8dp</dimen>
+  <dimen name="a_0.45size">2.7dp</dimen>
+  <dimen name="a_1.3size">8dp</dimen>
+  <dimen name="a_8.5size">51dp</dimen>
+  <dimen name="a_3.3size">19.8dp</dimen>
+  <dimen name="a_3.5size">20dp</dimen>
+  <dimen name="a_7.5size">45dp</dimen>
+  <dimen name="m_a_size">-6dp</dimen>
+  <dimen name="m_a_3size">-18dp</dimen>
+
+</resources>

@@ -1,0 +1,15 @@
+project.ext {
+    //0 不生成aar包，常规项目编译
+    //1 paysdk使用fat aar的方式生成aar包，app也将引入aar包的方式进行编译
+    buildType = 0
+
+//    compileSdkVersion = 25
+//    buildToolsVersion = "26.0.1"
+//    minSdkVersion = 16
+//    targetSdkVersion = 25
+
+    compileSdkVersion = 23
+    buildToolsVersion = "23.0.2"
+    minSdkVersion = 16
+    targetSdkVersion = 22
+}

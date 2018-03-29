@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="titleView">
+        <attr name="paysdk_backIcon" format="reference"/>
+        <attr name="paysdk_backIconWidth" format="dimension"/>
+        <attr name="paysdk_backIconHeight" format="dimension"/>
+        <attr name="paysdk_leftText" format="string"/>
+        <attr name="paysdk_titleText" format="string"/>
+        <attr name="paysdk_titleColor" format="color"/>
+        <attr name="paysdk_leftColor" format="color"/>
+        <attr name="paysdk_rightIcon" format="reference"/>
+        <attr name="paysdk_rightIconWidth" format="dimension"/>
+        <attr name="paysdk_rightIconHeight" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="barCodeText">
+        <attr name="paysdk_text" format="string"/>
+        <attr name="paysdk_textSize" format="dimension"/>
+        <attr name="paysdk_textColor" format="color"/>
+    </declare-styleable>
+</resources>
